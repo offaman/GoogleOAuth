@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/709aac58-2954-4d05-9f7f-197d7c147c7a/AppServices/subscriptions/709aac58-2954-4d05-9f7f-197d7c147c7a/resourceGroups/gdriveOauth/providers/Microsoft.Web/sites/gdriveauth",
+    "appService.deploySubpath": ".",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
